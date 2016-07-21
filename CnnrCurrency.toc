@@ -1,0 +1,4 @@
+## Interface: 70000
+## Title: CnnrCurrency
+
+currency.lua
